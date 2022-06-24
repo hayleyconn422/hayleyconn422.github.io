@@ -11,7 +11,7 @@ body{
 }
 table{
   background-color: gray;
-  color: yellow;
+  font-color: yellow;
 }
 p{
   font-family: 'patrick_handregular', Arial, sans-serif;
