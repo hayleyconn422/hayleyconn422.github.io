@@ -8,9 +8,11 @@
 }
 body{
   color: blue;
-  
 }
-
+table{
+  color: blue;
+  background-color: gray;
+}
 p{
   font-family: 'patrick_handregular', Arial, sans-serif;
   font-weight:normal;
